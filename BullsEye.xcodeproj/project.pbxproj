@@ -102,7 +102,7 @@
 				TargetAttributes = {
 					F052A6531DE1CE6F00004ED1 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = G388492WD6;
+						DevelopmentTeam = 8TUF73A8Z9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -259,10 +259,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G388492WD6;
+				DEVELOPMENT_TEAM = 8TUF73A8Z9;
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.TranceApps.BullsEye;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dTranceApps.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -272,10 +272,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G388492WD6;
+				DEVELOPMENT_TEAM = 8TUF73A8Z9;
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.TranceApps.BullsEye;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dTranceApps.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
